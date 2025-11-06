@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/vandets/vandets/blob/main/vd-bg.jpg">
+<img align="right" height="500" src="https://github.com/vandets/vandets/blob/main/vd-bg.jpg">
 
 
 # Curlee Coder
