@@ -1,13 +1,13 @@
 <img align="right" width="500" height="500" src="https://github.com/SnippetCoders/SnippetCoder/blob/master/git-transparent-bg.png">
 
 
-# SnippetCoder
+# Curlee Coder
 
 <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/flutter.png"/>  <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/angular.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/ionic.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/dotnet.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/node.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/aws.png"/>
 
-Mr. Curlee Coder is the platform to learn about the latest technologies that will help you boost your coding. Stay tuned for regular updates. 
+C#, VB, SQL & Flutter Developer | Building cross-platform apps & backend solutions | Passionate about coding & continuous learning
 
-<a href="https://www.youtube.com/SnippetCoder">
+<a href="https://www.youtube.com/@vandetsok1309">
  Subscribe to our Youtube Channel
 </a>
 
