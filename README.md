@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @vandets
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" width="500" height="500" src="https://github.com/SnippetCoders/SnippetCoder/blob/master/git-transparent-bg.png">
 
-<!---
-vandets/vandets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# SnippetCoder
+
+<img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/flutter.png"/>  <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/angular.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/ionic.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/dotnet.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/node.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/aws.png"/>
+
+Mr. Curlee Coder is the platform to learn about the latest technologies that will help you boost your coding. Stay tuned for regular updates. 
+
+<a href="https://www.youtube.com/SnippetCoder">
+ Subscribe to our Youtube Channel
+</a>
+
+
+<Br>
+<Br>
+<Br>
+  
+If you like my work , you can support me by donating through PayPal:
+
+http://www.paypal.me/iSharpeners
+
+<Br>
+<Br>
+<Br>
+<Br>
+
+
+
+
+## Stay Connected with me !
+
+<a href="https://web.facebook.com/skvandet">
+  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+</a>
+<a href="https://github.com/vandets">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="https://t.me/skvandet">
+  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
+</a>
+<a href="mailto:vandet01027@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
