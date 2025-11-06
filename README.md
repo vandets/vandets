@@ -3,7 +3,7 @@
 
 # Curlee Coder
 
-<img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/flutter.png"/>  <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/angular.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/ionic.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/dotnet.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/node.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/aws.png"/>
+<img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/flutter.png"/>   <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/ionic.png"/> <img src="https://github.com/SnippetCoders/SnippetCoder/blob/master/dotnet.png"/>
 
 C#, VB, SQL & Flutter Developer | Building cross-platform apps & backend solutions | Passionate about coding & continuous learning
 
@@ -16,9 +16,9 @@ C#, VB, SQL & Flutter Developer | Building cross-platform apps & backend solutio
 <Br>
 <Br>
   
-If you like my work , you can support me by donating through PayPal:
+If you like my work , you can support me by donating through ABA KHQR:
 
-http://www.paypal.me/iSharpeners
+https://pay.ababank.com/oRF8/54cw4918
 
 <Br>
 <Br>
